@@ -1,0 +1,23 @@
+{
+  "repo": "addictive-keys-full",
+  "product": "Addictive Keys Full",
+  "kind": "audio",
+  "install_type": "toolix",
+  "install_url": "https://toolix.me/",
+  "batch": "new4",
+  "format": "license-md-toolix-v1",
+  "category": "piano-library",
+  "topics": [
+    "addictive-keys",
+    "studio-piano-desk",
+    "mic-blend-windows",
+    "addictive-2026",
+    "how-to-install-addictive-keys",
+    "addictive-keys-package",
+    "tape-eq-suite",
+    "upright-grand-tools",
+    "composer-piano-deluxe",
+    "xlnaudio-keys"
+  ],
+  "site": "toolix.me"
+}
